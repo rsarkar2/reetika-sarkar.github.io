@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Research
@@ -25,4 +24,3 @@ Broadly, I am interested in:
 - Causal inference
 - Statistical software testing and validation
 - Applications in oncology, pharmacovigilance, and real-world evidence
-    

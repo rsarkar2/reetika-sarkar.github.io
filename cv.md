@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: CV / Résumé
@@ -34,4 +33,3 @@ Here’s a summary of my academic and professional experience. A full résumé i
 - Graduate Student Research Award (2024–25)
 - Intern Showcase Winner – JMP/SAS (2024)
 - Nominated for Teaching Excellence (UNCG)
-    

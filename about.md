@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: About Me
@@ -13,4 +12,3 @@ My research and professional journey has been guided by the goal of solving mean
 Outside of academics, I enjoy time in nature, reading on neurodivergence and mental well-being, and spending time with my family.
 
 > "The smiles and trust of people and animals who’ve experienced trauma or need support are more valuable to me than any material success."
-    
